@@ -6,8 +6,8 @@ static const unsigned int gappx     = 5;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "monospace:size=12", "fontawesome:size=12" };
-static const char dmenufont[]       = "monospace:size=11";
+static const char *fonts[]          = { "Hack Nerd Font Mono:size=12", "FontAwesome:size=24" };
+static const char dmenufont[]       = "Hack Nerd Font Mono:size=10";
 //background color
 static const char col_gray1[]       = "#222222";
 //inactive window border color
@@ -25,7 +25,7 @@ static const char *colors[][3]      = {
 };
 
 /* tagging */
-static const char *tags[] = { "\uf015", "\uf120", "\uf121", "\uf013", "\uf07c", "\uf1bc", "\uf1b6", "\uf392", "\ue007" };
+static const char *tags[] = { "", "", "", "", "", "", "", "", "" };
 
 static const Rule rules[] = {
 	/* xprop(1):
