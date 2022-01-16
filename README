@@ -1,11 +1,3 @@
-pengeg's customized dwm
-THIS IS A CLONE OF DWM WITH MY OWN CUSTOMIZATIONS
-use it if you like, don't if you don't
-
-depends on nerd-fonts-hack and ttf-font-awesome-4
-
---------------------------------------------------
-
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
